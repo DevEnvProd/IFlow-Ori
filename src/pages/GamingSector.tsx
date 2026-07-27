@@ -124,25 +124,6 @@ export default function GamingSector() {
             </ul>
            </div>
 
-           {/* Tier 3: Sponsored Insight Integration */}
-           <motion.div 
-            whileHover={{ y: -2 }}
-            className="bg-[#0A0A0A] text-white border border-black/10 shadow-sm p-4"
-           >
-            <div className="text-[#D32F2F] text-[10px] font-mono font-bold tracking-widest mb-2 uppercase flex items-center">
-              <span className="w-1.5 h-1.5 rounded-full bg-[#D32F2F] mr-2 animate-pulse"></span>
-              Industry Compare Let
-            </div>
-            <h3 className="text-sm font-mono font-bold mb-3 leading-tight text-[#FAF8F0]">Digital Entertainment Flows vs. Land-Based Returns</h3>
-            <p className="font-sans text-[11px] text-gray-400 mb-4 pb-4 border-b border-white/10 uppercase">
-              While legacy Malaysian operators see accumulation, where is international capital flowing? We compare physical casino GGR models against emerging digital frameworks.
-            </p>
-            <a href="#" className="flex justify-between items-center group font-mono text-[10px] font-bold uppercase">
-              <span className="text-white group-hover:text-[#FAF8F0] transition-colors">Read Platinum Casino's IR Note</span>
-              <span className="text-[#0A0A0A] bg-[#FAF8F0] p-1 group-hover:bg-white transition-colors">&rarr;</span>
-            </a>
-           </motion.div>
-
         </div>
       </div>
     </div>

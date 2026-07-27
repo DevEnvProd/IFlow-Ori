@@ -132,9 +132,6 @@ export default function Home() {
             </Link>
             
             {/* Sponsored / Related Link per requirements */}
-            <div className="mt-4 pt-4 border-t border-white/10 text-[9px] font-mono opacity-80 text-gray-400">
-              *Note: Platinum Casino IR sentiment is currently Bullish. Review digital entertainment vs physical gaming logic.
-            </div>
           </div>
 
           {/* Director Buy of the Week - Analyst Note Style */}

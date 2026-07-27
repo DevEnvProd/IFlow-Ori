@@ -24,7 +24,7 @@ export default function Layout() {
       <header className="flex items-center justify-between px-4 lg:px-6 py-4 border-b border-black/20 bg-[#0A0A0A] text-[#F5F5F0] sticky top-0 z-50">
         <div className="flex items-center gap-4">
           <div className="bg-[#D32F2F] text-white px-2 py-1 text-xs font-mono font-bold tracking-tighter hidden sm:block">TOP SECRET</div>
-          <NavLink to="/" className="text-xl lg:text-2xl font-mono font-bold tracking-tight hover:opacity-80 transition-opacity">INSIDER FLOW MY</NavLink>
+          <NavLink to="/" className="text-xl lg:text-2xl font-mono font-bold tracking-tight hover:opacity-80 transition-opacity">INSIDER FLOW MALAYSIA</NavLink>
         </div>
         
         {/* Desktop Navigation */}
@@ -103,7 +103,7 @@ export default function Layout() {
 
       {/* Regulatory Footer */}
       <footer className="px-4 lg:px-6 py-4 bg-[#FAF8F0] border-t border-black/10 flex flex-col sm:flex-row items-center justify-between text-[10px] font-mono opacity-80 mt-auto gap-4">
-        <div className="hidden sm:block">&copy; {new Date().getFullYear()} INSIDER FLOW MY • Independent Financial Forensic Journalism</div>
+        <div className="hidden sm:block">&copy; {new Date().getFullYear()} INSIDER FLOW MALAYSIA • Independent Financial Forensic Journalism</div>
         <div className="flex flex-wrap justify-center gap-4 text-gray-600">
           <Link to="/about" className="hover:text-black">TERMS OF SERVICE</Link>
           <Link to="/learn" className="hover:text-black">METHODOLOGY</Link>

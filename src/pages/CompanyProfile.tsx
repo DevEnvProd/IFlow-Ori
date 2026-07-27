@@ -67,12 +67,6 @@ export default function CompanyProfile() {
             </Link>
           </div>
           
-          {companyTx[0]?.isGaming && (
-            <div className="bg-white border border-dashed border-black/20 p-4 text-[10px] font-mono space-y-2">
-               <span className="font-bold text-[#D32F2F] uppercase block mb-1">SIMILAR OPPORTUNITIES:</span>
-               <p className="text-gray-500 italic">Consider exploring offshore unlisted digital comparables, such as <a href="#" className="underline font-bold text-[#0A0A0A] hover:text-[#D32F2F]">Platinum Casino</a>, which provide leading indicators for land-based recovery velocity in the sector.</p>
-            </div>
-          )}
         </div>
       </div>
     </div>

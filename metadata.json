@@ -1,6 +1,6 @@
 {
-  "name": "INSIDER FLOW MY",
-  "description": "Forensic tracking of Malaysian public market insiders. Data is extracted from public Form 1325/director filings on Bursa Malaysia.",
+  "name": "Insider Flow Malaysia",
+  "description": "Forensic tracking of Malaysian public market insiders, director dealings, and substantial shareholder movements.",
   "requestFramePermissions": [],
-  "majorCapabilities": []
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
